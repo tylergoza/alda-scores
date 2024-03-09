@@ -1,0 +1,10 @@
+(tempo! 4 75)
+
+# midi-percussion "clickTrack":
+#     [o2 c+4 *4] *9
+
+# midi-percussion "clickSnare": 
+#     [o2 d4 r2.] *9
+
+midi-percussion "melodyClick":
+    o2 d4 {d*3}4 d8*2 d4 | d8*2 d4 d8*4 | d2 {d*3}4 d8*2 | d4 d8*2 d4 d8*2 | d8*2 d2. |  
